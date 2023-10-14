@@ -56,7 +56,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ender-GB-Isis777/LOBO-BOT-MD.git && cd LOBO-BOT-MD
+git clone https://github.com/ANGEL9000/AndyoBot-MD.git && cd ANDYO-BOT-MD
 ```
 
 ```bash
