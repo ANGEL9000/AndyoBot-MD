@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Ender-GB-Isis777/LOBO-BOT-MD.",
+  "homepage": "https://github.com/ANGEL9000/AndyoBot-MD.",
   "author": {
-    "name": "Ender"
+    "name": "Angel"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ender-GB-Isis777/LOBO-BOT-MD.git"
+    "url": "git+https://github.com/ANGEL9000/AndyoBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Ender-GB-Isis777/LOBO-BOT-MD/issues"
+    "url": "https://github.com/ANGEL9000/AndyoBot-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
