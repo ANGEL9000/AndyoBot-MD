@@ -79,7 +79,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd LOBO-termux
+> cd ANDYO-termux
 > npm start
 ```
 
@@ -88,15 +88,15 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd LOBO-termux
-> rm -rf LOBOsession
+> cd ANDYO-termux
+> rm -rf ANDYOsession
 > npm start
 ```
 
 
 
  ### `—◉ 👑 DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR 👑`
-<a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/ENDER_GB_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51982110760" target="blank"><img src="https://img.shields.io/badge/ANGEL_AB_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ ✦CUSTOMER SUPPORT✦`
 <a href="http://wa.me/50576390682" target="blank"><img src="https://img.shields.io/badge/ENDER_GB_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -115,4 +115,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/Ender-GB-Isis777"><img src="https://github.com/Ender-GB-Isis777.png" width="250" height="250" alt="Ender"/></a>
   
-`Lobo-Bot-MD - By Ender GB`
+`Andyo-Bot-MD - By Angel AB`
