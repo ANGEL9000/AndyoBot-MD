@@ -8,27 +8,27 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['50576390682', '🍇𝐄𝐍𝐃𝐄𝐑 𝐋𝐁 𝐎𝐖𝐍𝐄𝐑🍇', true],
+  ['51982110760', '🍇𝗔𝗡𝗚𝗘𝗟 𝗔𝐁 𝐎𝐖𝐍𝐄𝐑🍇', true],
   ['5491168758497', '💻𝐂𝐔𝐒𝐓𝐎𝐌𝐄𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓💻', true],
   ['18296835082', '☃️𝐒𝐓𝐀𝐅𝐅 𝐋𝐁☃️', true],
   ['50558124470', '☃️🍭𝐒𝐇𝐈𝐑𝐎𝐔 𝐋𝐁🍭', true],
   ['51929972576', '☃️𝐏𝐎𝐋𝐈𝐂𝐄 𝐋𝐁☃️', true],
   ['593939005387', '☃️𝐌𝐎𝐃𝐄𝐑𝐀𝐓𝐎𝐑 𝐋𝐁☃️', true],
   ['51928723029', '🖥️𝐆𝐋𝐎𝐁𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🖥️', true],
-  ['51982110760', '🧸𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑 𝐋𝐁🧸', true],
+  ['', '🧸𝐂𝐎𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑 𝐋𝐁🧸', true],
   ['584129799955', '🧸𝐃𝐈𝐒𝐄𝐍̃𝐀𝐃𝐎𝐑 𝐋𝐁🧸', true],
 
 ];
 
-global.suittag =['50576390682']
-global.prems =['50576390682']
+global.suittag =['51982110760']
+global.prems =['51982110760']
 
 global.packname = '☯︎ 𝙱𝙾𝚃\n☯︎ 𝙾𝚆𝙽𝙴𝚁';
 global.author = 'ʜᴀᴄʜɪᴋᴏ-ʙᴏᴛ-ᴍᴅ\nʜᴀᴄʜᴇᴊᴏᴛᴀ';
 global.wm = '𝐿𝑂𝐵𝑂 - 𝐵𝑂𝑇';
-global.titulowm = '🐺 𝗟𝗢𝗕𝗢-𝗕𝗢𝗧-𝗠𝗗 🐺';
-global.titulowm2 =`✦𝗟 𝗢 𝗕 𝗢 - 𝗕 𝗢 𝗧 - 𝗠 𝗗✦`
-global.igfg = '✪𝗟𝗼𝗯𝗼 - 𝗕𝗼𝘁✪'  ;
+global.titulowm = '🐺 𝗔𝗡𝗗𝗬𝗢-𝗕𝗢𝗧-𝗠𝗗 🐺';
+global.titulowm2 =`✦𝗔 𝗡 𝗗 𝗬 𝗢- 𝗕 𝗢 𝗧 - 𝗠 𝗗✦`
+global.igfg = '✪𝗔𝗻𝗱𝘆𝗼 - 𝗕𝗼𝘁✪'  ;
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -53,8 +53,8 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.gp1 = 'https://chat.whatsapp.com/BMGMxj6cU9o4S3huVByLFc'
 global.gp2 = 'https://chat.whatsapp.com/BcCSqRpWctb0J4cNZb02Te'
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙷𝚊𝚌𝚑𝚒𝚔𝚘-𝙱𝚘𝚝`;
-global.gt = '★𝗟𝗢𝗕𝗢-𝗕𝗢𝗧★';
-global.mysticbot = '★𝗟𝗢𝗕𝗢 - 𝗕𝗢𝗧★';
+global.gt = '★𝗔𝗡𝗗𝗬𝗢-𝗕𝗢𝗧★';
+global.mysticbot = '★𝗔𝗡𝗗𝗬𝗢 - 𝗕𝗢𝗧★';
 global.md = 'https://github.com/Ender-GB-Isis777/LOBO-BOT-MD';
 global.mysticbot = 'https://github.com/Ender-GB-Isis777/LOBO-BOT-MD';
 global.waitt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
